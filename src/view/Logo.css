@@ -1,0 +1,31 @@
+.LogoBar {
+    grid-area: 1/1;
+}
+
+.LogoBar .bar {
+    display: flex;
+    position: relative;
+    justify-self: center;
+    background: white;
+    align-self: center;
+}
+
+.LogoBar .space {
+    width: 50px;
+    background: white;
+}
+
+.LogoBar .space._left {
+    padding-left: 65px;
+    transform-origin: 0% 100%;
+}
+
+.LogoBar .space._right {
+    padding-right: 65px;
+    transform-origin: 100% 100%;
+}
+
+.LogoBar .logo {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

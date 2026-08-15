@@ -1,0 +1,987 @@
+- naam: Station Amsterdam Centraal
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Nieuwezijde
+  eiland:
+  architect:
+      - Pierre Cuypers
+  stijl: historiserende stijl
+  bouwjaar: 1889
+  functie:
+      - station
+  plek:
+      - type: rivier
+        naam: IJ
+  link:
+      amsterdamopdekaart.nl: https://amsterdamopdekaart.nl/1850-1940/Stationsplein/Centraal_Station
+      arcam.nl: https://arcam.nl/architectuur-gids/centraal-station/
+- naam: Hotel Victoria
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Nieuwezijde
+  eiland:
+  architect:
+      - Johann Friedrich Henkenhaf
+  stijl: historiserende stijl
+  bouwjaar: 1890
+  functie:
+      - hotel
+  plek:
+      - type: gracht
+        naam: Damrak
+  link:
+      amsterdamopdekaart.nl: https://amsterdamopdekaart.nl/1850-1940/Damrak/Victoria-hotel
+- naam: Co-kathedrale basiliek van Sint Nicolaas
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Oudezijde
+  eiland:
+  architect:
+      - Adrianus Bleijs
+  stijl: historiserende stijl
+  bouwjaar: 1887
+  functie:
+      - kerk
+  plek:
+      - type: kade
+        naam: Prins Hendrikkade
+  link:
+      amsterdamopdekaart.nl: https://amsterdamopdekaart.nl/1850-1940/Prins_Hendrikkade/Nicolaaskerk
+- naam: Gebouw Batavia
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Oudezijde
+  eiland:
+  bouwjaar: 1919
+  architect:
+      - Jan Hendrik Slot
+  # stijl: Amsterdamse School (decoratief)
+  stijl: Amsterdamse School
+  functie:
+      - kantoor
+  plek:
+      - type: kade
+        naam: Prins Hendrikkade
+  link:
+      amsterdamopdekaart.nl: https://amsterdamopdekaart.nl/1850-1940/Prins_Hendrikkade/Gebouw_Batavia  
+- naam: Schreierstoren
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Kop Zeedijk
+  eiland:
+  architect: []
+  stijl:
+  bouwjaar: 1487
+  functie:
+      - verdediging
+  plek:
+      - type: kade
+        naam: Prins Hendrikkade
+      - type: kade
+        naam: Geldersekade
+      - type: gracht
+        naam: Geldersekade
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/schreierstoren/
+# Damrak voor de Beurs
+- naam: Orgelhandel Schols & Pos
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Nieuwezijde
+  eiland:
+  bouwjaar: 1901
+  architect:
+      - Roelof Kuipers
+  stijl: jugendstil
+  functie:
+      - winkel
+      - kantoor
+      - woning
+  plek:
+      - type: gracht
+        naam: Damrak
+  link:
+      amsterdamopdekaart.nl: https://amsterdamopdekaart.nl/1850-1940/Damrak/20-21
+- naam: Damrak 26-27
+  groep: De Utrecht
+  wijk: Amsterdam-Centrum
+  buurt: Nieuwezijde
+  eiland:
+  bouwjaar: 1904
+  architect:
+      - Alexander Jacobus Kropholler
+      - Jan Frederik Staal
+  stijl: Berlagianisme
+  functie:
+      - winkel
+      - kantoor
+      - magazijn
+      - werkplaats
+  plek:
+      - type: gracht
+        naam: Damrak
+  link:
+      amsterdamopdekaart.nl: https://amsterdamopdekaart.nl/1850-1940/Damrak/De_Utrecht_(2)
+- naam: Damrak 28-30
+  groep: De Utrecht
+  wijk: Amsterdam-Centrum
+  buurt: Nieuwezijde
+  eiland:
+  bouwjaar: 1905
+  architect:
+      - Alexander Jacobus Kropholler
+      - Jan Frederik Staal
+  stijl: Amerikanisme
+  functie:
+      - winkel
+      - kantoor
+  plek:
+      - type: gracht
+        naam: Damrak
+  link:
+      amsterdamopdekaart.nl: https://amsterdamopdekaart.nl/1850-1940/Damrak/De_Utrecht_(1)
+- naam: Damrak 37-38
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Nieuwezijde
+  eiland:
+  architect:
+      - Johan Hartkamp
+  stijl: art nouveau
+  bouwjaar: 1903
+  functie:
+      - kantoor
+      - bierkelder
+      - fotografisch atelier
+  plek:
+      - type: gracht
+        naam: Damrak
+  link:
+      amsterdamopdekaart.nl: https://amsterdamopdekaart.nl/1850-1940/Damrak/37-38
+# Damrak Beurs
+- naam: Beurs van Berlage
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Oudezijde
+  eiland:
+  architect:
+      - Hendrik Petrus Berlage
+  bouwjaar: 1903
+  stijl: Berlagianisme
+  functie:
+      - beurs
+  plek:
+      - type: gracht
+        naam: Damrak
+  link:
+      amsterdamopdekaart.nl: https://amsterdamopdekaart.nl/1850-1940/Beursplein/Beurs_van_Berlage
+      arcam.nl: https://arcam.nl/architectuur-gids/beurs-van-berlage/
+
+# Damrak achter Beurs
+- naam: De Bijenkorf
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Oudezijde
+  eiland:
+  architect:
+      - Jacobus Augustinus van Straaten
+      - Bernardus Antonius Lubbers
+  stijl: Um 1800
+  bouwjaar: 1914
+  functie:
+      - winkel
+  plek:
+      - type: gracht
+        naam: Damrak
+      - type: plein
+        naam: Dam
+  link:
+      amsterdamopdekaart.nl: https://amsterdamopdekaart.nl/1850-1940/Dam/De_Bijenkorf
+      arcam.nl: https://arcam.nl/architectuur-gids/de-bijenkorf/
+- naam: Peek & Cloppenburg
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Nieuwezijde
+  eiland:
+  architect:
+      - Anton Johannes Joling
+  stijl: Um 1800
+  bouwjaar: 1917
+  functie:
+      - winkel
+  plek:
+      - type: plein
+        naam: Dam
+- naam: Paleis op de Dam
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Nieuwezijde
+  eiland:
+  architect:
+      - Jacob van Campen
+  stijl: classicisme
+  bouwjaar: 1665
+  functie:
+      - koninklijk paleis
+  plek:
+      - type: plein
+        naam: Dam
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/koninklijk-paleis-amsterdam/
+- naam: Nieuwe Kerk
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Nieuwezijde
+  eiland:
+  bouwjaar: 1400
+  architect: []
+  functie:
+      - kerk
+  stijl: gothiek
+  plek:
+      - type: plein
+        naam: Dam
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/de-nieuwe-kerk
+
+# Centrum
+- naam: Hoofdpostkantoor
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Nieuwezijde
+  eiland:
+  architect:
+      - Cornelis Hendrik Peters
+  bouwjaar: 1899
+  stijl: historiserende stijl
+  functie:
+      - postkantoor
+  plek: []
+- naam: Rijkskantoorgebouw voor Geld- en Telefoonbedrijf
+  wijk: Amsterdam-Centrum
+  buurt: Nieuwezijde
+  eiland:
+  architect:
+      - Joseph Crouwel
+  stijl: nieuwe zakelijkheid
+  bouwjaar: 1927
+  functie:
+      - geldkantoor
+      - telefooncentrale
+  plek: []
+  link:
+      amsterdamopdekaart.nl: https://amsterdamopdekaart.nl/1850-1940/Nieuwezijds_Voorburgwal/226
+- naam: P.C. Hoofthuis
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Nieuwezijde
+  eiland:
+  bouwjaar: 1984
+  architect:
+      - Theo Bosch
+      - Aldo van Eyck
+  stijl: structuralisme
+  functie:
+      - onderwijs
+  plek:
+      - type: gracht
+        naam: Singel
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/p-c-hoofthuis/
+- naam: Het Witte Huis
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Nieuwezijde
+  eiland:
+  architect:
+      - Jan Verheul
+      - Cornelis Verheul
+  stijl: jugendstil
+  bouwjaar: 1900
+  functie:
+      - kantoor
+  plek:
+      - type: gracht
+        naam: Singel
+
+# Rokin
+- naam: Algemeene Friesche Levensverzekerings-Maatschappij
+  wijk: Amsterdam-Centrum
+  buurt: Grachtengordel
+  eiland:
+  bouwjaar: 1929
+  architect:
+      - Herman Ambrosius Jan Baanders
+      - Jan Baanders
+  stijl: Berlagianisme
+  functie:
+      - kantoor
+  plek:
+      - type: gracht
+        naam: Rokin
+  link:
+      amsterdamopdekaart.nl: https://amsterdamopdekaart.nl/1850-1940/Rokin/115
+- naam: Restaurant Riche
+  wijk: Amsterdam-Centrum
+  buurt: Nieuwezijde
+  eiland:
+  architect:
+      - Adolf Leonard van Gendt
+  bouwjaar: 1883
+  stijl: historiserende stijl
+  functie:
+      - restaurant
+  plek:
+      - type: gracht
+        naam: Rokin
+  link:
+      amsterdamopdekaart.nl: https://amsterdamopdekaart.nl/1850-1940/Rokin/84
+- naam: Kantoor Oudhof Effecten
+  wijk: Amsterdam-Centrum
+  buurt: Nieuwezijde
+  eiland:
+  architect:
+      - Mart Antonius Aloysius van Schijndel
+  stijl: postmodernisme
+  bouwjaar: 1990
+  functie:
+      - kantoor
+  plek:
+      - type: gracht
+        naam: Rokin
+  link:
+      amsterdamopdekaart.nl: https://amsterdamopdekaart.nl/1966-1990/Rokin/99
+      arcam.nl: https://arcam.nl/architectuur-gids/effectenkantoor/
+- naam: Hoofdkantoor De Nederlandsche Bank
+  wijk: Amsterdam-Centrum
+  buurt: Nieuwezijde
+  eiland:
+  architect:
+      - Willem Anthonie Fröger
+  bouwjaar: 1869
+  stijl: historiserende stijl
+  functie:
+      - bank
+  plek:
+      - type: gracht
+        naam: Rokin
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/allard-pierson-museum/
+- naam: "Hotel l'Europe"
+  wijk: Amsterdam-Centrum
+  buurt: Nieuwezijde
+  eiland:
+  architect:
+      - Willem Hamer
+  stijl: historiserende stijl
+  bouwjaar: 1896
+  functie:
+      - hotel
+  plek:
+      - type: rivier
+        naam: Amstel
+      - type: gracht
+        naam: Rokin
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/hotel-leurope/
+# Rond het centrum
+- naam: Montelbaanstoren
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Lastage
+  eiland:
+  bouwjaar: 1515
+  architect:
+      - Hendrick de Keyser
+  functie:
+      - verdediging
+  plek:
+      - type: gracht
+        naam: Oudeschans
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/montelbaanstoren/
+- naam: Pentagon
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Zuiderkerkbuurt
+  eiland:
+  bouwjaar: 1983
+  architect:
+      - Aldo van Eyck
+      - Theo Bosch
+  stijl: structuralisme
+  functie:
+      - woning
+  plek:
+      - type: gracht
+        naam: Zwanenburgwal
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/pentagon/
+- naam: Westerkerk
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Grachtengordel
+  eiland:
+  bouwjaar: 1631
+  architect:
+      - Hendrick de Keyser
+  stijl: renaissance
+  functie:
+      - kerk
+  plek:
+      - type: gracht
+        naam: Prinsengracht
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/westerkerk/
+- naam: Cineac
+  wijk: Amsterdam-Centrum
+  buurt: Grachtengordel
+  eiland:
+  bouwjaar: 1934
+  architect:
+      - Jan Duiker
+  functie:
+      - cinema
+  plek: []
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/cineac/
+- naam: Theater Tuschinski
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Grachtengordel
+  eiland:
+  bouwjaar: 1921
+  architect:
+      - Hijman Louis de Jong
+      - Willem Kromhout
+  functie:
+      - cinema
+  plek: []
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/theater-tuschinski/
+- naam: Carlton Hotel
+  wijk: Amsterdam-Centrum
+  buurt: Grachtengordel
+  eiland:
+  bouwjaar: 1928
+  architect:
+      - Gerrit Jan Rutgers
+      - Jan Wils
+  functie:
+      - hotel
+  stijl: Amsterdamse School
+  plek: []
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/carlton-hotel/
+- naam: De Bazel
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Grachtengordel
+  eiland:
+  bouwjaar: 1926
+  architect:
+      - Karel de Bazel
+      - Adolf Daniël Nicolaas van Gendt
+  stijl: Berlagianisme
+  functie:
+      - kantoor
+  plek:
+      - type: gracht
+        naam: Keizersgracht
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/de-bazel
+- naam: Kantoor Algemene Bank Nederland
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Grachtengordel
+  eiland:
+  bouwjaar: 1973
+  architect:
+      - Marius Frans Duintjer
+  stijl: laat-modernisme
+  functie:
+      - bankkantoor
+  plek:
+      - type: gracht
+        naam: Prinsengracht
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/kantoorgebouw-algemene-bank-nederland/
+
+# Noord
+- naam: EYE
+  groep:
+  wijk: Amsterdam-Noord
+  buurt:
+  eiland:
+  bouwjaar: 2011
+  architect:
+      - Delugan - Meissl
+  stijl: metamodernisme
+  functie:
+      - museum
+      - cinema
+  plek:
+      - type: rivier
+        naam: IJ
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/eye-filmmuseum/
+- naam: Shell-toren
+  groep:
+  wijk: Amsterdam-Noord
+  buurt:
+  eiland:
+  bouwjaar: 1971
+  hoogte: 100
+  architect:
+      - Arthur Staal
+      - Claus en Kaan
+      - OeverZaaijer
+  stijl: laat-modernisme
+  functie:
+      - kantoor
+  plek:
+      - type: rivier
+        naam: IJ
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/adam-toren/
+
+# Spaarndammerbuurt
+- naam: Spaarndammerplantsoen Blok 1
+  groep: Spaarndammerplantsoen
+  wijk: Amsterdam-West
+  buurt: Spaarndammerbuurt
+  eiland:
+  bouwjaar: 1914
+  architect:
+      - Michel de Klerk
+  stijl: Amsterdamse School
+  functie:
+      - woning
+      - sociale woning
+  plek:
+      - type: park
+        naam: Spaarndammerplantsoen
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/het-schip/
+- naam: Spaarndammerplantsoen Blok 2
+  groep: Spaarndammerplantsoen
+  wijk: Amsterdam-West
+  buurt: Spaarndammerbuurt
+  eiland:
+  bouwjaar: 1916
+  architect:
+      - Michel de Klerk
+  stijl: Amsterdamse School
+  functie:
+      - woning
+      - sociale woning
+  plek:
+      - type: park
+        naam: Spaarndammerplantsoen
+- naam: Spaarndammerplantsoen Blok 3
+  groep: Spaarndammerplantsoen
+  wijk: Amsterdam-West
+  buurt: Spaarndammerbuurt
+  eiland:
+  bouwjaar: 1919
+  architect:
+      - Michel de Klerk
+  interieur:
+      - Museumwoning
+      - Postkantoor
+  stijl: Amsterdamse School
+  functie:
+      - woning
+      - sociale woning
+  plek: []
+- naam: Zaandammerplein
+  groep:
+  wijk: Amsterdam-West
+  buurt: Spaarndammerbuurt
+  eiland:
+  bouwjaar: 1923
+  architect:
+      - Karel de Bazel
+  stijl: Berlagianisme
+  functie:
+      - woning
+      - sociale woning
+  plek: []
+
+# Oost
+- naam: Scheepvaarthuis
+  groep:
+  wijk: Amsterdam-Centrum
+  buurt: Scheepvaarthuisbuurt
+  eiland:
+  bouwjaar: 1916
+  architect:
+      - Johan Godard
+      - Adolf van Gendt
+      - Jo van der Mey
+      - Michel de Klerk
+      - Piet Kramer
+  stijl: Amsterdamse School
+  functie:
+      - kantoor
+  plek:
+      - type: kade
+        naam: Prins Hendrikkade
+      - type: dok
+        naam: Oosterdok
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/alternatieve-aap-2024-scheepvaarthuis/
+- naam: NEMO
+  groep:
+  wijk: Oostelijk Havengebied
+  eiland:
+  buurt:
+  bouwjaar: 1997
+  # open: 1997-
+  architect:
+      - Renzo Piano
+  stijl: metamodernisme
+  functie:
+      - museum
+  plek:
+      - type: dok
+        naam: Oosterdok
+  link:
+    architect:
+        - https://www.rpbw.com/project/nemo-national-center-for-science-and-technology
+    arcam.nl: https://arcam.nl/architectuur-gids/nemo/
+- naam: Openbare Bibliotheek Amsterdam
+  groep:
+  wijk: Oostelijk Havengebied
+  buurt: Oosterdokseiland
+  eiland: Oosterdokseiland
+  #    ontwerp+bouw: 2001-2007
+  bouwjaar: 2007
+  #    open: 2007-
+  architect:
+      - Jo Coenen
+  stijl: postmodernisme
+  functie:
+      - bibliotheek
+  plek:
+      - type: dok
+        naam: Oosterdok
+      - type: kade
+        naam: Oosterdokkade
+  link:
+    architect:
+        - https://jocoenen.com/cv/pages/oba/index.html
+    arcam.nl: https://arcam.nl/architectuur-gids/openbare-bibliotheek-amsterdam/
+- naam: Conservatorium Amsterdam
+  groep:
+  wijk: Oostelijk Havengebied
+  buurt: Oosterdokseiland
+  eiland: Oosterdokseiland
+  bouwjaar: 2008
+  #    open: 2008-
+  architect:
+      - Frits van Dongen
+  stijl: metamodernisme
+  functie:
+      - onderwijs
+  plek:
+      - type: dok
+        naam: Oosterdok
+      - type: kade
+        naam: Oosterdokkade
+  link:
+    architect:
+        - https://www.fritsvandongen.nl/nl/conservatorium
+    arcam.nl: https://arcam.nl/architectuur-gids/conservatorium/
+- naam: booking.com
+  groep:
+  wijk: Oostelijk Havengebied
+  buurt: Oosterdokseiland
+  eiland: Oosterdokseiland
+  bouwjaar: 2023
+  #    open: 2023-
+  architect:
+      - UNstudio
+  stijl: metamodernisme
+  functie:
+      - kantoor
+  plek:
+      - type: dok
+        naam: Oosterdok
+      - type: kade
+        naam: Oosterdokkade
+  link:
+    architect:
+        - https://www.unstudio.com/projects/booking-com-city-campus/
+    arcam.nl: https://arcam.nl/architectuur-gids/booking-hq/
+- naam: Mr. J. J. van der Velde-brug
+  groep:
+  wijk: Oostelijk Havengebied
+  buurt:
+  eiland:
+  architect:
+      - Kerste-Meijer
+  bouwjaar: 2005 # opening
+  functie:
+      - brug
+  stijl: metamodernisme
+  plek: []
+- naam: Oosterdoksdraaibrug
+  groep:
+  wijk: Oostelijk Havengebied
+  buurt:
+  eiland:
+  architect:
+      - Kerste-Meijer
+  stijl: metamodernisme
+  functie:
+      - brug
+  bouwjaar: 1991 # opening in 1991 of 1992
+  plek:
+      - type: dok
+        naam: Oosterdok
+- naam: "'s Lands Zeemagazijn"
+  groep:
+  wijk: Oostelijk Havengebied
+  buurt: Kattenburg
+  eiland: Kattenburg
+  bouwjaar: 1656
+  architect:
+      - Daniël Stalpaert
+  stijl: classicisme
+  functie:
+      - havenpakhuis
+  plek:
+      - type: dok
+        naam: Oosterdok
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/s-lands-zeemagazijn-scheepvaartmuseum/
+- naam: "Muziekgebouw aan 't IJ"
+  groep:
+  wijk: Oostelijk Havengebied
+  buurt: Oostelijke Handelskade
+  eiland:
+  bouwjaar: 2005
+  architect:
+      - 3XN
+  stijl: metamodernisme
+  functie:
+      - concertzaal
+  plek:
+      - type: rivier
+        naam: IJ
+      - type: kade
+        naam: Piet Heinkade
+      - type: kade
+        naam: Veemkade
+  link:
+    architect:
+        - https://3xn.com/project/muziekgebouw
+- naam: Mövenpick Hotel
+  groep:
+  wijk: Oostelijk Havengebied
+  buurt: Oostelijke Handelskade
+  eiland:
+  bouwjaar: 2006
+  hoogte: 65
+  architect:
+      - Claus & Kaan
+  stijl: metamodernisme
+  functie:
+      - hotel
+  plek:
+      - type: rivier
+        naam: IJ
+      - type: dok
+        naam: IJhaven
+      - type: kade
+        naam: Veemkade
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/movenpick-hotel/
+- naam: Piet Hein Buildings
+  groep:
+  wijk: Oostelijk Havengebied
+  buurt: Oostelijke Handelskade
+  eiland:
+  bouwjaar: 2013
+  architect:
+      - Hans van Heeswijk
+      # - Dick van Gameren bouwde 2 van de 5 gebouwen van de Piet Hein Buildings, maar niet die op de foto
+  stijl: metamodernisme
+  functie:
+      - kantoor
+  plek:
+      - type: dok
+        naam: IJhaven
+      - type: kade
+        naam: Piet Heinkade
+      - type: kade
+        naam: Veemkade  
+  link:
+    architect:
+        - https://www.heeswijk.nl/projecten/piet-hein-buildings.html  
+- naam: Hotel Jakarta
+  wijk: Oostelijk Havengebied
+  buurt: Java-eiland
+  eiland: Java-eiland
+  bouwjaar: 2018
+  architect:
+      - SeARHc
+  stijl: metamodernisme
+  functie:
+      - hotel
+  plek:
+      - type: rivier
+        naam: IJ
+      - type: dok
+        naam: IJhaven
+      - type: kade
+        naam: Java
+      - type: kade
+        naam: Jakarta
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/hotel-jakarta
+    architect:
+        - https://www.search.nl/works/hotel-jakarta/
+# niet 1 gebouw, verschillende architecten
+- naam: Brantasgracht 7-21
+  wijk: Oostelijk Havengebied
+  buurt: Java-eiland
+  eiland: Java-eiland
+  bouwjaar: 2000
+  stijl: postmodernisme
+  architect: [] # verschillende architecten, de meeste niet gekend
+  functie:
+      - woning
+  plek:
+      - type: gracht
+        naam: Brantasgracht
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/woningen-brantasgracht/
+- naam: Blokken Java-eiland
+  wijk: Oostelijk Havengebied
+  buurt: Java-eiland
+  eiland: Java-eiland
+  architect:
+      - Cruz y Ortiz
+  bouwjaar: 1996
+  stijl: metamodernisme
+  functie:
+      - woning
+  plek:
+      - type: kade
+        naam: Java
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/woningen-java-eiland/
+    architect:
+        - https://www.cruzyortiz.com/portfolio/residential-block-in-java-eiland/
+- naam: Skydome
+  wijk: Oostelijk Havengebied
+  buurt: Java-eiland
+  eiland: Java-eiland
+  bouwjaar: 1996
+  hoogte: 63
+  architect:
+      - Wiel Arets
+  functie:
+      - woning
+  stijl: metamodernisme
+  plek:
+      - type: kade
+        naam: Suriname
+      - type: rivier
+        naam: IJ
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/skydome/
+    architect:
+        - https://www.wielaretsarchitects.com/en/projects/knsm_island_skydome/
+- naam: Barcelona
+  wijk: Oostelijk Havengebied
+  buurt: KNSM-eiland
+  eiland: KNSM-eiland
+  bouwjaar: 1993
+  architect:
+      - Bruno Albert
+  stijl: postmodernisme
+  functie:
+      - woning
+  plek:
+      - type: kade
+        naam: Levant
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/barcelona/
+- naam: Venetië-hof
+  wijk: Oostelijk Havengebied
+  buurt: KNSM-eiland
+  eiland: KNSM-eiland
+  bouwjaar: 1996
+  architect:
+      - Jo Coenen
+      - Hans van Niedek
+  stijl: metamodernisme
+  functie:
+      - woning
+  plek:
+      - type: kade
+        naam: Levant
+      - type: rivier
+        naam: IJ
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/emerald-empire-villas/
+- naam: Hoogwerf
+  wijk: Oostelijk Havengebied
+  buurt: Java-eiland
+  eiland: Java-eiland
+  bouwjaar: 2001
+  architect:
+      - Diener & Diener
+  stijl: metamodernisme
+  functie:
+      - woning
+  plek:
+      - type: dok
+        naam: Ertshaven
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/langhaus-hofhaus/
+    architect:
+        - https://www.dienerdiener.ch/en/project/residential-buildings-knsm-and-java-island
+- naam: De Walvis
+  wijk: Oostelijk Havengebied
+  buurt: Sporenburg
+  eiland:
+  bouwjaar: 2003
+  architect:
+      - Frits van Dongen
+      - Cie.
+  stijl: metamodernisme
+  functie:
+      - woning
+  plek:
+      - type: kade
+        naam: Ertskade
+      - type: dok
+        naam: Ertshaven
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/the-whale/
+    architect:
+        - https://www.fritsvandongen.nl/nl/the-whale/
+- naam: IJ-toren
+  wijk: Oostelijk Havengebied
+  buurt: Rietlanden
+  eiland:
+  bouwjaar: 1998
+  architect:
+      - Neutelings Riedijk
+  functie:
+      - woning
+      - winkel
+  plek:
+      - type: dok
+        naam: IJhaven
+      - type: kade
+        naam: Veemkade
+  stijl: metamodernisme
+  link:
+    arcam.nl: https://arcam.nl/architectuur-gids/ij-toren-en-winkelcentrum/
+    architect:
+        - https://neutelings-riedijk.com/projects/ij-tower-and-shopping-center-amsterdam-neutelings-riedijk/

@@ -1,0 +1,102 @@
+- naam: Staub
+  film:
+    jaar: 2007
+    regisseur:
+      - Hartmut Bitomsky
+    land:
+      - Duitsland
+      - Zwitserland
+  poster:
+    jaar: 2007
+    ontwerper: []
+    land:
+      - Duitsland
+- naam: Krajina po bitvě
+  film:
+    jaar: 1970
+    land:
+      - Polen
+    regisseur: []
+  poster:
+    jaar: 1970
+    ontwerper:
+      - Karel Teissig
+    land:
+      - Tsjecho-Slovakije
+- naam: Sól ziemi czarnej
+  film:
+    jaar: 1969
+    land:
+      - Polen
+    regisseur:
+      - Kazimierz Kutz
+  poster:
+    jaar: 1969
+    ontwerper:
+      - Waldemar Swierzy
+    land:
+      - Polen
+- naam: Dolina Issy
+  film:
+    jaar: 1982
+    land:
+      - Polen
+    regisseur:
+      - Tadeusz Konwicky
+  poster:
+    jaar: 1982
+    land:
+      - Polen
+    ontwerper:
+      - Henryk Waniek
+- naam: Taste of Cherry
+  film:
+    jaar: 1997
+    land:
+      - Iran
+    regisseur:
+      - Abbas Kiarostami
+  poster:
+    jaar: 1997
+    ontwerper: []
+    land:
+      - Frankrijk
+- naam: Krehké vztahy
+  film:
+    jaar: 1979
+    land:
+      - Tsjecho-Slovakije
+    regisseur:
+      - Juraj Herz
+  poster:
+    jaar: 1979
+    land:
+      - Tsjecho-Slovakije
+    ontwerper:
+      - Olga Poláčková-Vyleťalová
+- naam: Flashback
+  film:
+    jaar: 1968
+    regisseur:
+      - Raffaele Andreassi
+    land:
+      - Italië
+  poster:
+    jaar: 1970
+    land:
+      - Cuba
+    ontwerper:
+      - Antonio Pérez Gonzáles
+- naam: Ni Liv
+  film:
+    jaar: 1957
+    regisseur:
+      - Arne Skouen
+    land:
+      - Noorwegen
+  poster:
+    jaar: 1957
+    ontwerper:
+      - W. Lund
+    land:
+      - Noorwegen

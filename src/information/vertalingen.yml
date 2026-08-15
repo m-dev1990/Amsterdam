@@ -1,0 +1,87 @@
+functie:
+  kantoor:
+    nl: kantoor
+    en: office
+  kerk:
+    nl: kerk
+    en: church
+  cinema:
+    nl: cinema
+    en: cinema
+  museum:
+    nl: museum
+    en: museum
+  woning:
+    nl: woning
+    en: housing
+  sociale woning:
+    nl: sociale woning
+    en: social housing
+  shop:
+    nl: winkel
+    en: shop
+  werkplaats:
+    nl: werkplaats
+    en: workshop
+  magazijn:
+    nl: magazijn
+    en: warehouse
+  bierkelder:
+    nl: bierkelder
+    en: beer cellar
+  fotografisch atelier:
+    nl: fotografisch atelier
+    en: photographic studio
+  verdediging:
+    nl: verdediging
+    en: defense
+  beurs:
+    nl: beurs
+    en: stock exchange
+  koninklijk paleis:
+    nl: koninklijk paleis
+    en: royal palace
+  concertzaal:
+    nl: concertzaal
+    en: concert hall
+  onderwijs:
+    nl: onderwijs
+    en: education
+  bibliotheek:
+    nl: bibliotheek
+    en: library
+  brug:
+    nl: brug
+    en: bridge
+  havenloods:
+    nl: havenpakhuis
+    en: harbor warehouse
+  hotel:
+    nl: hotel
+    en: hotel
+  bankkantoor:
+    nl: bankkantoor
+    en: bank
+  restaurant:
+    nl: restaurant
+    en: restaurant
+  postkantoor:
+    nl: postkantoor
+    en: post office
+  geldkantoor:
+    nl: geldkantoor
+    en: money office
+  telefooncentrale:
+    nl: telefooncentrale
+    en: telephone exchange
+voorwerp:
+  gebouw:
+    nl: gebouw
+    en: building
+  poster:
+    nl: poster
+    en: poster
+  foto:
+    nl: foto
+    en: photo
+  

@@ -1,0 +1,30 @@
+.foto_tag_list {
+  margin: 12px;
+}
+
+.foto_tag_container {
+  margin-bottom: 6px;
+}
+
+.foto_tag {
+  font-family: Arial;
+  font-weight: 700;
+  color: white;
+  padding-left: 1px;
+  padding-right: 1px;
+  font-size: 16px;
+  display: inline;
+}
+
+.foto_tag:hover {
+  color: white;
+  background-color: var(--clr-red);
+}
+
+.foto_tag._active {
+  color: var(--clr-blue)
+}
+
+.foto_tag._active:hover {
+  color: white;
+}

@@ -1,0 +1,19 @@
+.foto_description {
+  grid-area: 1/1;
+  flex-grow: 0;
+  padding: 12px;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: justify;
+  margin: 12px;
+  border: 1px solid white;
+  align-self: end;
+  justify-self: start;
+  width: 300px;
+  color: white;
+}
+
+.foto_description:hover {
+  color: white;
+  background-color: var(--clr-red);
+}

@@ -1,0 +1,17 @@
+.Scroller {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.Scroller .scroll_area {
+  display: grid;
+  position: relative;
+  grid-auto-flow: column;
+  justify-content: stretch;
+  align-content: stretch;
+  overflow-x: visible;
+  grid-auto-columns: 100vw;
+  grid-auto-rows: 100%;
+  transition-timing-function: linear;
+}

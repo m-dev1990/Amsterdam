@@ -1,0 +1,22 @@
+.FlickrIcon  {
+    display: block;
+    align-self: right;
+    justify-self: start;
+    margin: 5px;
+    margin-right: 8px;
+    text-decoration: none;
+}
+
+.FlickrIcon .name {
+    display: block;
+    visibility: hidden;
+    color: white;
+    text-decoration: none;
+    font-style: normal;
+    font-size: 10px;
+    text-align: center;
+}
+
+.FlickrIcon:hover .name {
+    visibility: visible;
+}
